@@ -4,6 +4,9 @@ pydantic==2.5.0
 python-dotenv==1.0.0
 requests==2.31.0
 
+# Vercel serverless adapter
+mangum==0.17.0
+
 # AI and Vector Database
 google-generativeai==0.3.2
 pinecone-client==3.0.0
